@@ -1,6 +1,10 @@
 hello git! hot-fix01分支变更
 hello git!
 hello git!
-hello git!
+hello git! master第四行作了修改
 hello git! hot-fix01在第五行作了变更，看是否会合并冲突
 aaaaaaaaaaaaaaaaaaa
+在github网页端新增一行代码
+测试ssh链接拉取pull代码，免密拉取是否可以
+测试ssh链接推送push代码
+华山剑法 果然厉害
