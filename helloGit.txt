@@ -2,4 +2,4 @@ hello git! hot-fix01分支变更
 hello git!
 hello git!
 hello git!
-hello git!
+hello git! hot-fix01在第五行作了变更，看是否会合并冲突
