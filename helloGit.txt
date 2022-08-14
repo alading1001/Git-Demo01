@@ -1,5 +1,5 @@
 hello git! hot-fix01分支变更
 hello git!
 hello git!
-hello git!
+hello git! master第四行作了修改
 hello git!
